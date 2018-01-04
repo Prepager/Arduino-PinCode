@@ -1,0 +1,25 @@
+#######################################
+# KeyDB Syntax Coloring
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+PinCode	KEYWORD1	PinCode
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clear	KEYWORD2
+login	KEYWORD2
+setPin	KEYWORD2
+isValid	KEYWORD2
+addInput	KEYWORD2
+undoInput	KEYWORD2
+clearAttempt	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
