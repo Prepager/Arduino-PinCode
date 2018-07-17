@@ -6,7 +6,7 @@
 # Datatypes (KEYWORD1)
 #######################################
 
-PinCode	KEYWORD1	PinCode
+PinCode	KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
